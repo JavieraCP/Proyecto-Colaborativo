@@ -60,7 +60,7 @@ h1 {
 }
 
 #nosotros h1 {
-    olor: #2E8B57; 
+    column-gap: #2E8B57; 
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-bottom: 3px solid #7CFC00;
